@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="cap5.cs" />
+    <Compile Include="cap6.cs" />
+    <Compile Include="cap7.cs" />
+    <Compile Include="cap8.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
